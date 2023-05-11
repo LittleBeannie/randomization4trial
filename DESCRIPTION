@@ -7,7 +7,8 @@ Authors@R: c(
   )
 Description: The goal of 'randomization4trial' is to enable randomization methods in clincial trials.
 License: GPL-3
-URL: https://github.com/littlebeannie/randomization4trial
+URL: https://github.com/littlebeannie/randomization4trial,
+    https://littlebeannie.github.io/randomization4trial/
 BugReports: https://github.com/littlebeannie/randomization4trial/issues
 Encoding: UTF-8
 VignetteBuilder:
