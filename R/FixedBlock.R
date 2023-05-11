@@ -36,7 +36,7 @@ FixedBlock <- R6::R6Class(
       paste0(
         "It is a permuted fixed block randomization with randomization ratio of ",
         table(self$block) |> names() |> paste0(collapse = " : "),
-        "=",
+        " = ",
         table(self$block) |> as.vector() |> paste0(collapse = " : "),
         "."
       )
