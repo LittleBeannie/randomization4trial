@@ -15,7 +15,6 @@ A class for randomization methods in clinical trials
 \subsection{Public methods}{
 \itemize{
 \item \href{#method-Randomization-validate}{\code{Randomization$validate()}}
-\item \href{#method-Randomization-assign}{\code{Randomization$assign()}}
 \item \href{#method-Randomization-summary}{\code{Randomization$summary()}}
 \item \href{#method-Randomization-clone}{\code{Randomization$clone()}}
 }
@@ -27,16 +26,6 @@ A class for randomization methods in clinical trials
 validate input parameters.
 \subsection{Usage}{
 \if{html}{\out{<div class="r">}}\preformatted{Randomization$validate()}\if{html}{\out{</div>}}
-}
-
-}
-\if{html}{\out{<hr>}}
-\if{html}{\out{<a id="method-Randomization-assign"></a>}}
-\if{latex}{\out{\hypertarget{method-Randomization-assign}{}}}
-\subsection{Method \code{assign()}}{
-generate assignments of subjects
-\subsection{Usage}{
-\if{html}{\out{<div class="r">}}\preformatted{Randomization$assign()}\if{html}{\out{</div>}}
 }
 
 }

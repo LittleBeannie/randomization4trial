@@ -10,12 +10,7 @@ Randomization <- R6::R6Class(
     validate = function() {
       stop("Not implemented", call. = FALSE)
     },
-    
-    #' @description generate assignments of subjects
-    assign = function() {
-      stop("Not implemented", call. = FALSE)
-    },
-    
+  
     #' @description
     #' Summarize the distribution.
     summary = function() {

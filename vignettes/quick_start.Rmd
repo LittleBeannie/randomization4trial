@@ -23,6 +23,8 @@ library(randomization4trial)
 fb <- FixedBlock$new(block = c("Control", "Experimental", "Experimental"))
 
 fb |> summary()
+
+fb |> randomize(sample_size = 30)
 ```
 
 # References
